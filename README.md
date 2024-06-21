@@ -13,13 +13,14 @@ I'm Abdelalli SAAID, a passionate software developer with a focus on creating pr
 - Improving accessibility and usability standards in software development.
 
 ## Let's Connect!
-🌐 Portfolio
-🐦 Twitter
-💼 LinkedIn
-📧 Email: your@email.com
+- 🌐 Portfolio
+- 🐦 Twitter
+- 💼 LinkedIn : linkedin.com/in/abdelali-saaid-4b0767244
+- 📧 Email: abdelalisaaid120123@gmail.com
+- 📧 Email: abdelali.saaid.etu23@ensem.ac.ma
 
 ## Get in Touch
-I'm always open to collaboration and new opportunities. Feel free to reach out if you have any questions, ideas, or some additions!
+I'm always open to collaboration and new opportunities. Feel free to reach out if you have any questions, ideas, or beneficial additions!
 
 
 
@@ -54,6 +55,7 @@ I'm always open to collaboration and new opportunities. Feel free to reach out i
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abdelali-IT-Engineer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abdelali-IT-Engineer&theme=dark&hide_border=false)<br/>
