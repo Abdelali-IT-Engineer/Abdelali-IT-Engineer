@@ -61,16 +61,6 @@ I'm always open to collaboration and new opportunities. Feel free to reach out i
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abdelali-IT-Engineer&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelali-IT-Engineer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
-Simple github portfolio generator, just provide your github username! Get a chart with the main languages within your repositories and your total number of stars:
-
-![portfolio preview](github-portfolio.jpg)
-
-[Generate a github portfolio](http://isradeleon.com/github-portfolio.html)
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Abdelali-IT-Engineer&icon=0&color=0)](https://visitcount.itsvg.in)
 
