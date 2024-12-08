@@ -4,19 +4,19 @@ I'm Abdelalli SAAID, a passionate software developer with a focus on creating pr
 
 ## What You'll Find Here
 - Projects: Explore my repositories for a variety of applications, tools, and experiments.
-- Contributions: I actively contribute to open-source projects, aiming to give back to the community.
-- Learning Journey: Follow along as I share insights, tutorials, and learnings from my experiences.
+- Contributions
+- Learning Journey: Follow along as I share my experiences.
 
 ## Current Focus
-- Building intuitive web applications using technologies like React.js, Node.js, and PostgreSQL.
-- Exploring the intersection of technology and everyday life, with a focus on household management and efficiency tools.
+- Building intuitive web applications.
+- Exploring the intersection of technology and everyday life.
 - Improving accessibility and usability standards in software development.
 
 ## Let's Connect!
 - 🌐 Portfolio
 - 🐦 Twitter
 - 💼 LinkedIn : linkedin.com/in/abdelali-saaid-4b0767244
-- 📧 Email: abdelalisaaid120123@gmail.com
+- 📧 Gmail: abdelalisaaid120123@gmail.com
 - 📧 Email: abdelali.saaid.etu23@ensem.ac.ma
 
 ## Get in Touch
