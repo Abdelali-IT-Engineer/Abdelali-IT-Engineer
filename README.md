@@ -17,7 +17,6 @@ I'm Abdelalli SAAID, a passionate software developer with a focus on creating pr
 - 🐦 Twitter
 - 💼 LinkedIn : linkedin.com/in/abdelali-saaid-4b0767244
 - 📧 Gmail: abdelalisaaid120123@gmail.com
-- 📧 Email: abdelali.saaid.etu23@ensem.ac.ma
 
 ## Get in Touch
 I'm always open to collaboration and new opportunities. Feel free to reach out if you have any questions, ideas, or beneficial additions!
