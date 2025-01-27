@@ -56,6 +56,4 @@ I'm always open to collaboration and new opportunities. Feel free to reach out i
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelali-IT-Engineer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abdelali-IT-Engineer&icon=0&color=0)](https://visitcount.itsvg.in)
-
-Proudly created with GPRM ( https://gprm.itsvg.in ) 
+[![](https://visitcount.itsvg.in/api?id=Abdelali-IT-Enginner&icon=0&color=0)](https://visitcount.itsvg.in)
