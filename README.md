@@ -1,6 +1,8 @@
 👋 Welcome to My GitHub Profile!
 # About Me
-I'm Abdelalli SAAID, a passionate software developer with a focus on creating practical solutions that improve daily life. My journey in programming started during my first year of studies at ENSEM (École Nationale d'Électricité et de Mécanique), and since then, I've been exploring various technologies and building meaningful projects.
+I'm Abdelalli SAAID, a passionate software developer with a focus on creating practical solutions that improve daily life.
+My journey in programming started during my first year of studies at ENSEM (École Nationale d'Électricité et de Mécanique), 
+and since then, I've been exploring various technologies and building meaningful projects.
 
 ## What You'll Find Here
 - Projects: Explore my repositories for a variety of applications, tools, and experiments.
@@ -19,11 +21,8 @@ I'm Abdelalli SAAID, a passionate software developer with a focus on creating pr
 - 📧 Gmail: abdelalisaaid120123@gmail.com
 
 ## Get in Touch
-I'm always open to collaboration and new opportunities. Feel free to reach out if you have any questions, ideas, or beneficial additions!
-
-
-
-
+I'm always open to collaboration and new opportunities. 
+Feel free to reach out if you have any questions, ideas, or beneficial additions!
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -55,5 +54,5 @@ I'm always open to collaboration and new opportunities. Feel free to reach out i
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abdelali-IT-Engineer&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelali-IT-Engineer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+---
 [![](https://visitcount.itsvg.in/api?id=Abdelali-IT-Enginner&icon=0&color=0)](https://visitcount.itsvg.in)
