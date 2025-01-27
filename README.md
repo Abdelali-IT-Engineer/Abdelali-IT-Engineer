@@ -1,7 +1,7 @@
 👋 Welcome to My GitHub Profile!
 # About Me
-I'm Abdelalli SAAID, a passionate software developer with a focus on creating practical solutions that improve daily life.
-My journey in programming started during my first year of studies at ENSEM (École Nationale d'Électricité et de Mécanique), 
+I'm Abdelalli SAAID, a passionate software developer with a focus on creating practical solutions that improve daily life.<br>
+My journey in programming started during my first year of studies at ENSEM (École Nationale d'Électricité et de Mécanique), <br>
 and since then, I've been exploring various technologies and building meaningful projects.
 
 ## What You'll Find Here
@@ -54,4 +54,4 @@ Feel free to reach out if you have any questions, ideas, or beneficial additions
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelali-IT-Engineer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abdelali-IT-Engineer&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Abdelali-IT-Engineer&icon=1&color=3)](https://visitcount.itsvg.in)
