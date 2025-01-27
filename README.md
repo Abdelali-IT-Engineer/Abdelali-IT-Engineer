@@ -52,6 +52,3 @@ Feel free to reach out if you have any questions, ideas, or beneficial additions
 ![](https://github-readme-stats.vercel.app/api?username=Abdelali-IT-Engineer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abdelali-IT-Engineer&theme=dark&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelali-IT-Engineer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Abdelali-IT-Engineer&icon=3&color=blue)](https://visitcount.itsvg.in)
-
