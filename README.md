@@ -18,7 +18,7 @@ and since then, I've been exploring various technologies and building meaningful
 - 🌐 Portfolio
 - 🐦 Twitter
 - 💼 LinkedIn : linkedin.com/in/abdelali-saaid-4b0767244
-- 📧 Gmail: abdelalisaaid120123@gmail.com
+- 📧 Gmail
 
 ## Get in Touch
 I'm always open to collaboration and new opportunities. 
