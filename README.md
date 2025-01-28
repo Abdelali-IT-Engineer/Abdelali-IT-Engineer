@@ -22,7 +22,7 @@ and since then, I've been exploring various technologies and building meaningful
 
 ## Get in Touch
 I'm always open to collaboration and new opportunities. 
-Feel free to reach out if you have any questions, ideas, or beneficial additions!
+Feel free to reach out if you have any questions, ideas, or beneficial additions!<br>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
