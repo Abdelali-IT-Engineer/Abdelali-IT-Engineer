@@ -21,7 +21,7 @@ and since then, I've been exploring various technologies and building meaningful
 - 📧 Gmail
 
 ## Get in Touch
-I'm always open to collaboration and new opportunities. 
+I'm always open to collaboration and new opportunities. <br>
 Feel free to reach out if you have any questions, ideas, or beneficial additions!<br>
 
 # 💻 Tech Stack:
@@ -51,7 +51,7 @@ Feel free to reach out if you have any questions, ideas, or beneficial additions
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abdelali-Saaid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelali-IT-Engineer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelali-Saaid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abdelali-Saaid&theme=dark&hide_border=false)<br>
 
 
