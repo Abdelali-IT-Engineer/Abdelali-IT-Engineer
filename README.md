@@ -16,7 +16,6 @@ and since then, I've been exploring various technologies and building meaningful
 
 ## Let's Connect!
 - 🌐 Portfolio
-- 🐦 Twitter
 - 💼 LinkedIn : linkedin.com/in/abdelali-saaid-4b0767244
 - 📧 Gmail
 
